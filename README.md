@@ -4,7 +4,7 @@
 
 **Description:**                                                                                                                                                            
 
-This Python implementation demonstrates how K-values affect classification performance through dynamic decision boundary visualization. Key features include dual dataset support (built-in Iris dataset or custom CSV files), accuracy-K curve analysis, and confusion matrix reporting. The project visually reveals the bias-variance tradeoff in KNN algorithms.                                                                                                                                                
+This Python implementation demonstrates how K-values affect classification performance through dynamic decision boundary visualization. Key features include dual dataset support (built-in Iris dataset or custom CSV files), accuracy-K curve analysis, and confusion matrix reporting. This visually reveals the bias-variance tradeoff in KNN algorithms.                                                                                                                                                
 
 **Installation:**                                                                                                                                                        
 
@@ -60,14 +60,6 @@ Custom datasets must be CSV formatted with:
 4. Push branch: git push origin new-feature                                                                                                                                     
 5. Submit pull request with detailed description                                                                                                                         
 
+**Workflow:**                                                                                                                                                         
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/2efe319f-0a03-4414-92e3-8f51b9f5d21e)                                                                                                                                                                                                                                  
